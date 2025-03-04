@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "hugo-bin": "^0.141.0",
+    "hugo-bin": "^0.142.0",
     "prettier": "^3.2.5"
   }
 }
